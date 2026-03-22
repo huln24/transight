@@ -1,0 +1,3 @@
+/Users/khulanulziibat/Documents/code/transight/build/CMakeFiles/transight.dir
+/Users/khulanulziibat/Documents/code/transight/build/CMakeFiles/edit_cache.dir
+/Users/khulanulziibat/Documents/code/transight/build/CMakeFiles/rebuild_cache.dir

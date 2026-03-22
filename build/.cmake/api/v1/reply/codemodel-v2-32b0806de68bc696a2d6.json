@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CONAN_LIB::fmt_fmt_RELEASE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CONAN_LIB__fmt_fmt_RELEASE-Release-2998db23a9ee10edfc93.json",
+					"name" : "CONAN_LIB::fmt_fmt_RELEASE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CONAN_LIB::fmt_fmt_fmt_fmt_RELEASE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CONAN_LIB__fmt_fmt_fmt_fmt_RELEASE-Release-bbc99a64b4ea17fea319.json",
+					"name" : "CONAN_LIB::fmt_fmt_fmt_fmt_RELEASE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SQLite3::SQLite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SQLite3__SQLite3-Release-addb967c93dd3a40c6a6.json",
+					"name" : "SQLite3::SQLite3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SQLite::SQLite3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SQLite__SQLite3-Release-62ed68c3886e47a0c3ad.json",
+					"name" : "SQLite::SQLite3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fmt::fmt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fmt__fmt-Release-5f6ab8aa7f1c771be10a.json",
+					"name" : "fmt::fmt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fmt_DEPS_TARGET::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fmt_DEPS_TARGET-Release-29d58e538b5f8b58edf9.json",
+					"name" : "fmt_DEPS_TARGET",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fmt_fmt_fmt_DEPS_TARGET::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fmt_fmt_fmt_DEPS_TARGET-Release-0cc6bf113a79e921d893.json",
+					"name" : "fmt_fmt_fmt_DEPS_TARGET",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-fd6451d79dc282e2f566.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "transight",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "transight::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-transight-Release-c6627fc280b2cff1e75e.json",
+					"name" : "transight",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/khulanulziibat/Documents/code/transight/build",
+		"source" : "/Users/khulanulziibat/Documents/code/transight"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	}
+}

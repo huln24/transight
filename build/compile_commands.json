@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/khulanulziibat/Documents/code/transight/build",
+  "command": "/usr/bin/clang++  -isystem /Users/khulanulziibat/.conan2/p/fmt175d118d68f15/p/include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/transight.dir/src/main.cpp.o -c /Users/khulanulziibat/Documents/code/transight/src/main.cpp",
+  "file": "/Users/khulanulziibat/Documents/code/transight/src/main.cpp",
+  "output": "CMakeFiles/transight.dir/src/main.cpp.o"
+}
+]

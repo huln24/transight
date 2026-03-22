@@ -1,0 +1,1 @@
+. "/Users/khulanulziibat/Documents/code/transight/build/deactivate_conanrunenv-release-armv8.sh"
