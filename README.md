@@ -6,11 +6,11 @@ Simple CLI C++ application that parses GTFS data, stores in DB and performs vari
 
 ```conan profile detect --force```
 
-3. Install dependencies
+2. Install dependencies
 
 ```conan install . --output-folder=build --build=missing```
 
-5. Configure the project
+3. Configure the project
 
 Linux/MacOS
 ```

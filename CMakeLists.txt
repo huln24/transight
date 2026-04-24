@@ -6,3 +6,5 @@ find_package(fmt REQUIRED)
 
 add_executable(${PROJECT_NAME} src/main.cpp)
 target_link_libraries(${PROJECT_NAME} SQLite3::SQLite3 fmt::fmt)
+
+target_include_directories(${PROJECT_NAME} PRIVATE include)
